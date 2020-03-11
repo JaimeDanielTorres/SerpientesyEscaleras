@@ -4,11 +4,9 @@ Reglas...
 
 * 1 jugador
 * 1 dado indica la cantidad de casillas a avanzar
-* 64 casillas de abajo hacia arriba, izquierda a derecha
+* 100 casillas de abajo hacia arriba, derecha a izquierda
 * Casilla con escalera sube
 * Casilla con serpiente baja
-* Si el dado cae en 6, vuelve a lanzar
-* Si obtiene 3 6 consecutivos regresa a inicio y no puede avanzar de nuevo hasta obtener otro 6
 * El que llegue a la casilla final es el ganador
 
 
